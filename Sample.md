@@ -32,8 +32,9 @@ i am going to list some  item
  
   ## create table
   | name | age |
-  |------|-----|
-  | abc  |  23 |
+  |------|----|
+  | abc | 23 |
+  | xyz | 32 |
 
   #### adding a hyperlink
   [link] (http://google.com)
